@@ -1,0 +1,6 @@
+com\stackroute\ActivityStreamSecurityJWT\security\TokenAuthenticationService.class
+com\stackroute\ActivityStreamSecurityJWT\security\WebMvcConfig.class
+com\stackroute\ActivityStreamSecurityJWT\App.class
+com\stackroute\ActivityStreamSecurityJWT\security\WebSecurityConfig.class
+com\stackroute\ActivityStreamSecurityJWT\security\JWTLoginFilter.class
+com\stackroute\ActivityStreamSecurityJWT\security\JWTAuthenticationFilter.class

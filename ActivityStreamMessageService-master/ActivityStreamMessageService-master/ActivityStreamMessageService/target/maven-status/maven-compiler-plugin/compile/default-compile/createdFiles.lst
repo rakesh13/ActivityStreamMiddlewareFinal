@@ -1,0 +1,4 @@
+com\stackroute\message\restcontroller\MessageController.class
+com\stackroute\message\test\MessageTest.class
+com\stackroute\message\main\ActivityStreamMessageService.class
+com\stackroute\message\restcontroller\UserMessageController.class

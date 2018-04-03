@@ -1,0 +1,4 @@
+com\stackroute\user\test\UserTest.class
+com\stackroute\user\main\ActivityStreamUserService.class
+com\stackroute\user\logger\UserLogger.class
+com\stackroute\user\restcontroller\UserController.class

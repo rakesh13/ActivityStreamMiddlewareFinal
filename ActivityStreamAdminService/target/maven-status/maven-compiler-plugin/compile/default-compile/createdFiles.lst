@@ -1,0 +1,3 @@
+com\stackroute\ActivityStreamAdminService\App.class
+com\stackroute\ActivityStreamAdminService\mailsender\MailSender.class
+com\stackroute\ActivityStreamAdminService\restcontroller\AdminController.class
